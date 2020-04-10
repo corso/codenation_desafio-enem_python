@@ -9,10 +9,10 @@ https://www.codenation.dev/aceleradev/ds-online-1/challenge/enem-ps
 A solução foi implementada em Python, utilizando regressão linear.
 
 ### Pacotes utilizados
-Pandas;
-Missingno (from https://github.com/ResidentMario/missingno);
-Numpy;
-Sklearn .
+* Pandas;
+* Missingno (from https://github.com/ResidentMario/missingno);
+* Numpy;
+* Sklearn.
 
 ### Score: 
-91% de acerto (sendo o mínimo 90%).
+91% de acerto / 90% necessário.
