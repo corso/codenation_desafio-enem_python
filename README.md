@@ -11,6 +11,7 @@ A solução foi implementada em Python, utilizando regressão linear.
 ### Pacotes utilizados
 * Pandas;
 * Missingno (from https://github.com/ResidentMario/missingno);
+* Numpy;
 * Sklearn.
 
 ### Score: 
